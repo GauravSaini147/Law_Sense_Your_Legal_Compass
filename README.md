@@ -33,7 +33,7 @@ The **Legal Awareness Web App** is designed to empower citizens with accessible 
 ## Installation
 1. **Clone the repository**
    ```bash
-   
+   https://github.com/GauravSaini147/Law_Sense_Your_Legal_Compass.git
 
 2. **Install dependencies**
    ```bash
